@@ -1,0 +1,25 @@
+Go to : 
+
+https://github.com/pawn-lang/compiler/releases
+
+Try using with each of these versions and compiling.
+
+If this did not work for you, repeat this process again but remove #includes as an example some anti cheat..
+
+Example :
+
+Download a version of pawn
+
+and remove
+
+
+#nex-ac
+
+Compile
+
+
+Remove
+
+#streamer and compile
+
+If you did this with all the #includes and it didn't compile try another version of pawn and so on
